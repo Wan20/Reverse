@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_d2b25d55c26258dae784d850eaeaed6bca624f0d/classes.dex" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_f41bebca28b3fa187dffb5f17af374381aa7643f/classes.dex" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1176b89229122a82ac4f8ee5dee4acef03d671e2">
+        <dex dex="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ac7d79aa44f217c0d803f78c9ba27cfc0616e20/classes.dex" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ec2c6b4ec38470345be2822b49d8a818d9b1c98d">
+        <dex dex="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b53990cda08f228f1f27d6cd1a013511536bf437/classes.dex" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_1e977e2cfb43386948fef680ec38c8a46b1b62cf/classes.dex" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_696d69d4d82b96a09c0e338a7792cebf44ae0f5a/classes.dex" />
+    </item>
+    <item
+        jar="/home/wansu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_28c6940b08616ea43107b0c29a2246659d7dd135/classes.dex" />
+    </item>
+    <item
+        jar="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/wansu/AndroidStudioProjects/Reverse/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_f93f62ac8a234f04f0c1ee4ecf246cb12319fb90/classes.dex" />
+    </item>
+
+</items>
